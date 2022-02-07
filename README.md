@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
+- 🔭 Atualmente trabalhando com Front-end.
+- 🌱 Estou aprendendo React e JavaScript.
 
 <div>
   <a href="https://github.com/Daitzyx">
