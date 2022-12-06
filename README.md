@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Desenvovledor Front-end.
-- 🌱 Estudando Inglês, React e Typescript.
+- 🔭 Desenvolvedor Front-end React & Typescript.
+- 🌱 Estudando Inglês, PHP & MySql.
 
 <div>
   <a href="https://github.com/Daitzyx">
